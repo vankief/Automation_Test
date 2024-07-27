@@ -1,2 +1,2 @@
 # Automation_Test
-BTL - Kiểm Thử Phần Mềm Nhúng
+Basic automated test scripts using Selenium and TestNG
